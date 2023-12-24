@@ -1,0 +1,2 @@
+# masaustu-uygulama-gelistirme
+kısa
